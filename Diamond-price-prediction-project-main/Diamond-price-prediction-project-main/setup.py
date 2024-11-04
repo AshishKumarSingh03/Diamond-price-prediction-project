@@ -16,7 +16,7 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-    name='RegressorProject',
+    name='Diamond-price-prediction-Regressor-Project',
     version='0.0.1',
     author='Ashish Kumar Singh',
     author_email='ashishsingh.chunar2017@gmail.com',
